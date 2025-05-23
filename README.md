@@ -81,4 +81,4 @@ Der Einsatz von Cheats kann gegen die Nutzungsbedingungen von Dead Island 2 vers
 
 
 
-<img src="Screen.PNG"/>
+<img src="Screen.jpeg"/>
